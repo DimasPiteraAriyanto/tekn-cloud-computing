@@ -14,17 +14,19 @@ Menghubungkan data ke visualisasi dari struktur organisasi, jaringan IT, tata le
 
 Microsoft Visio merupakan salah satu perangkat pemodelan untuk membuat diagram-diagram yang dibutuhkan dalam penggambaran proses bisnis. Visio dapat membantu system analyst sebagai pengguna dalam mempersiapkan penggambaran diagram yang biasa diperlukan, seperti ERD, DFD, rancangan User Interface, jarigan, Gantt Chart, dan masih banyak lainnya. Ketika pengguna memulai untuk melakukan aktivitas permodelan menggunakan Visio dengan membuka aplikasi, aplikasi akan menampilkan interface seperti di bawah ini:
 
-![Model]()
+![Model](https://github.com/XabaraNeanthal/tekn-cloud-computing/blob/master/minggu-02/gambar-04.png)
 
 ## DFD (Data Flow Diagram)
 
 Pengguna dapat memilih Data Flow Diagram template untuk memulai membuat Data Flow Diagram. Seperti pada tampilan kerja flowchart, pada bagian kiri tampilan kerja DFD terdapat pula kategori-kategori Shapes yang di dalam masing-masing kategori terdapat notasi yang dibutuhkan dalam membuat diagram Data Flow Diagram. Notasi-notasi tersebut dapat ditemukan pada Shapes kategori Data Flow Diagram Shapes.Untuk menggambarkan data flow antarnotasi, pengguna dapat menggunakan Connector Tool yang terdapat pada Toolbar.
 
-![Model]()
+![DFD](https://github.com/XabaraNeanthal/tekn-cloud-computing/blob/master/minggu-02/gambar-06.png)
 
 ## Flowchart
 
 Pengguna dapat memilih Basic Flowchart template untuk memulai membuat diagram berupa flowchart. Untuk membuat Cross functional flowchart, pada menu bar, klik File-New-Flowchart-Cross Functional Flowchart-pilih Band orientation. Pada gambar dibawah ini yaitu tampilan kerja Visio, terdapat Shapes yang di dalamnya terdapat notasi yang digunakan dalam membuat Flowchart. Notasi-notasi tersebut antara lain Process yang digunakan untuk menggambarkan proses yang terjadi dalam proses bisnis, Document yang digunakan untuk menggambarkan dokumen yang terdapat dalam proses bisnis, Decision yang digunakan untuk menggambarkan adanya alternatif pilihan, dan lain-lain yang berada pada Shapes dengan kategori Basic Flowchart Shapes.
+
+![Flowchart](https://github.com/XabaraNeanthal/tekn-cloud-computing/blob/master/minggu-02/gambar-05.png)
 
 # Overview Layanan Aplikasi Google Apps
 
