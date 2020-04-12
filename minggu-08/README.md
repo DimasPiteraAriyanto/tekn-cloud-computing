@@ -37,13 +37,14 @@ Dalam latihan ini menggunakan Docker Desktop yang harus diinstall terlebih dahul
 * Langkah 7: Perbarui aplikasi
 1. Ubah salam **app.py** dan simpan. Misalnya, ubah Hello World! pesan ke Hello Docker!....... :
     ![14](https://github.com/XabaraNeanthal/tekn-cloud-computing/blob/master/minggu-08/gambar-14.png)
-    2. Segarkan aplikasi di browser. Salam harus diperbarui, dan penghitung masih harus bertambah.
+2. Segarkan aplikasi di browser. Salam harus diperbarui, dan penghitung masih harus bertambah.
         ![13](https://github.com/XabaraNeanthal/tekn-cloud-computing/blob/master/minggu-08/gambar-13.png)
-	* Langkah 8:  percobaan dengan beberapa perintah lain.
-	1.  Menjalankan layanan di latar belakang, dapat melewati -d flag (untuk mode "detached").
-	2.  **Docker-compose ps** untuk melihat apa yang sedang berjalan.
-	3.  **Docker-compose run** perintah memungkinkan Anda untuk menjalankan satu-off perintah untuk layanan Anda. Misalnya, untuk melihat variabel lingkungan apa yang tersedia untuk weblayanan :.
-	4. Menjalankan dan melihat variabel yang tersedia menggunakan **docker-compose run web env**
-	5. Menghentikan aplikasi **docker-compose stop**
-	6. Menghapus containers **docker-compose down --volumes**
+
+* Langkah 8:  percobaan dengan beberapa perintah lain.
+1.  Menjalankan layanan di latar belakang, dapat melewati -d flag (untuk mode "detached").
+2.  **Docker-compose ps** untuk melihat apa yang sedang berjalan.
+3.  **Docker-compose run** perintah memungkinkan Anda untuk menjalankan satu-off perintah untuk layanan Anda. Misalnya, untuk melihat variabel lingkungan apa yang tersedia untuk weblayanan :.
+4. Menjalankan dan melihat variabel yang tersedia menggunakan **docker-compose run web env**
+5. Menghentikan aplikasi **docker-compose stop**
+6. Menghapus containers **docker-compose down --volumes**
 	![Perintah Lain](https://github.com/XabaraNeanthal/tekn-cloud-computing/blob/master/minggu-08/gambar-15.png)
