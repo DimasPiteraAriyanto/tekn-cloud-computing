@@ -1,7 +1,11 @@
 # Awesome Project
+***
 
-# Irene Aphrodite
+| Nama        | Nim |           
+| ------------- |:-------------:| 
+|Dimas Pitera Ariyanto|175610079|
 
+___
 
 Ini isi proyek
 
@@ -14,3 +18,8 @@ Ini isi proyek
 7. [minggu-07](https://github.com/XabaraNeanthal/tekn-cloud-computing/tree/master/minggu-07)
 8. [minggu-08](https://github.com/XabaraNeanthal/tekn-cloud-computing/tree/master/minggu-08)
 9. [minggu-09](https://github.com/XabaraNeanthal/tekn-cloud-computing/tree/master/minggu-09)
+10. [minggu-10](https://github.com/XabaraNeanthal/tekn-cloud-computing/tree/master/minggu-10)
+11. [minggu-11](https://github.com/XabaraNeanthal/tekn-cloud-computing/tree/master/minggu-11)
+12. [minggu-12](https://github.com/XabaraNeanthal/tekn-cloud-computing/tree/master/minggu-12)
+13. [minggu-13](https://github.com/XabaraNeanthal/tekn-cloud-computing/tree/master/minggu-13)
+14. [minggu-14](https://github.com/XabaraNeanthal/tekn-cloud-computing/tree/master/minggu-14)
